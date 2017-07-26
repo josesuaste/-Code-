@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html{
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+}
+body{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #9AD1ED;
+}
+.login_container{
+	background-color: #EFEFEF;
+	width: 350px;
+	border-top: solid .5rem #F39B59;
+	box-sizing: border-box;
+	padding: 3rem 0;
+	box-shadow: 0 0 .5rem #8A8C8C;
+}
+.login_top{
+	
+}
